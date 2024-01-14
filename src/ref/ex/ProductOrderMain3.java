@@ -57,6 +57,7 @@ public class ProductOrderMain3 {
         for (ProductOrder order : orders) {
             totalAmount = totalAmount + (order.price * order.quantity);
         }
+
         return totalAmount;
     }
 }
