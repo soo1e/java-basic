@@ -120,8 +120,6 @@ R
 "src/construct/MethodinitMain1.java,e/2/e28faef141a05d93f895fa6f69efa740f32fee7e
 R
 "src/construct/MethodinitMain2.java,0/5/05ee225064c340e15a476c878c2346a0e8ba68de
-T
-$src/construct/MethodinitMember3.java,2/e/2e7fc0b2557650fd8436b3a8b3b803fff12a04ce
 R
 "src/construct/MethodinitMain3.java,3/4/34b77c2e914817693bde00d6d5ead6ad9c98a1bf
 M
@@ -324,3 +322,23 @@ Y
 )src/com/helloshop/order/OrderService.java,5/c/5c34a75db83c2899d193cf6963768e850b79070c
 Y
 )src/com/helloshop/order/OrderHistory.java,1/1/11d74e198ce402ca9179ffc251dc51b3bd6cda0d
+G
+src/access/Speaker.java,f/8/f846f07e24c59d6282e318256a10802f829bad27
+K
+src/access/SpeakerMain.java,3/8/38892518a5d963e7fd03adaffa4ed55c137ac227
+L
+src/access/a/AccessData.java,6/e/6eba98d5d716381b88390f38e9447e523063b25e
+Q
+!src/access/a/AccessInnerMain.java,7/c/7c6bfbdfcec2d9b193bfef02e8c209450fe52cbb
+Q
+!src/access/b/AccessOuterMain.java,e/b/ebe45acb10db1aab6df8cd30f0f5e47dacf420cc
+M
+src/access/a/PublicClass.java,4/c/4cd22e8e254c914cfe2b23e1ad386fe3eb4f3ad7
+V
+&src/access/a/PublicClassInnerMain.java,9/d/9da663f1b056c7859041c17e46eccd38f0b1744e
+V
+&src/access/b/PublicClassOuterMain.java,e/e/eec6b6c14864844ffd5064783aa9586d7c9bd25b
+K
+src/access/BankAccount.java,a/2/a27d4622650e431ac3db886b5924891692d5f473
+O
+src/access/BankAccountMain.java,4/a/4ab09f0dc19248f9b2bcbc019b8ac2d639e357b3
