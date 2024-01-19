@@ -350,3 +350,35 @@ O
 src/access/ex/ShoppingCart.java,1/a/1a924c4ca847598fd7de5e80645bf6e64f284d41
 G
 src/access/ex/Item.java,8/f/8fa8373454509e497c43161a2f836e904f45b9d2
+O
+src/memory/JavaMemoryMain1.java,d/e/ded889c230376d118f8183726baa647e7033094f
+D
+src/memory/Data.java,8/2/82ee165c060290dfe175eb2d35488d1558ca37a6
+O
+src/memory/JavaMemoryMain2.java,b/d/bdaab9e123be2aa3d5d456dfa4ea64a6522225b6
+F
+src/static1/Data1.java,c/5/c5c7b48e292856b6ffd6b723b258c2e5967c1757
+O
+src/static1/DataCountMain1.java,c/0/c0548ecfb081eb9782a64b9d1eed34b4ae1ccbff
+H
+src/static1/Counter.java,f/c/fc84667df3992f6c2a1157edb43bc3a112bd96fc
+F
+src/static1/Data2.java,8/2/8230189f3e9285a82d47d75cf0161a2996d7a4fb
+O
+src/static1/DataCountMain2.java,2/9/29abf590c42813f7969bc257bb5b32e692945ae4
+F
+src/static1/Data3.java,1/1/11d5fd49ada28aa79862e2a5d6d59c559530e83a
+O
+src/static1/DataCountMain3.java,e/f/ef6420dc1058f80624ec8e882c685dae5542ebb1
+J
+src/static2/DecoUtil1.java,d/3/d389b5d224ff4059acfaa6ce4ba5fd5561f81d37
+J
+src/static2/DecoMain1.java,8/a/8a1ed850d8cd74c10065a3d2343df6c61e926239
+J
+src/static2/DecoUtil2.java,c/c/ccdccf59ec2f0eabcb49633c95baa702a23dab2c
+J
+src/static2/DecoMain2.java,d/0/d0b5377b57f42bf82af5424be820935f15180a19
+I
+src/static2/DecoData.java,a/a/aa8ce744bf26c0874cb2dec66e616f4004c7bbcb
+M
+src/static2/DecoDataMain.java,0/e/0e019e8fdc6c151dbc5275ef6f7ffd7a01e277de
