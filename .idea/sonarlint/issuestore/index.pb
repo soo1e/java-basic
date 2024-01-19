@@ -165,8 +165,6 @@ Q.idea/sonarlint/securityhotspotstore/a/6/a67c01bbf4f3f497a4a6072a1215ccb22f8c6b
 Å
 Q.idea/sonarlint/securityhotspotstore/3/4/34b77c2e914817693bde00d6d5ead6ad9c98a1bf,5/a/5a5c9148fcd47dd0ed7abd031d6e6c8d1ce6e24e
 Å
-Q.idea/sonarlint/securityhotspotstore/2/e/2e7fc0b2557650fd8436b3a8b3b803fff12a04ce,3/0/30a09b5d5b1988c4ffe5fec9d797f048a3a0ed61
-Å
 Q.idea/sonarlint/securityhotspotstore/1/f/1f8144112a27081f00a8c4759702783ce38d8be9,2/5/257cb1c6e3c1ca4a26ded4c4be45667d377e5a24
 Å
 Q.idea/sonarlint/securityhotspotstore/c/7/c71c9a323665c141325514ee37ad0302ce103aa0,7/4/7401e6eb8878b611a404a1de231162b74d382422
@@ -342,3 +340,13 @@ K
 src/access/BankAccount.java,a/2/a27d4622650e431ac3db886b5924891692d5f473
 O
 src/access/BankAccountMain.java,4/a/4ab09f0dc19248f9b2bcbc019b8ac2d639e357b3
+M
+src/access/ex/MaxCounter.java,7/1/71ba3e818b689a9f0bb278559f4db4bb42fbe9b9
+N
+src/access/ex/CounterMain.java,9/f/9fed0cc1a6bf739b3414339c9f6f1d4b5fe5014c
+S
+#src/access/ex/ShoppingCartMain.java,5/c/5cac433dca8a3d9d5b1df22a7e67464659262b62
+O
+src/access/ex/ShoppingCart.java,1/a/1a924c4ca847598fd7de5e80645bf6e64f284d41
+G
+src/access/ex/Item.java,8/f/8fa8373454509e497c43161a2f836e904f45b9d2
