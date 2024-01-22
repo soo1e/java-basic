@@ -468,3 +468,13 @@ L
 src/extends1/ex3/GasCar.java,7/0/70dd0a7057ad29c219e297682838e66a7f0cdfc1
 Q
 !src/extends1/ex3/ElectricCar.java,9/3/937a8725be15db1350d3b99a660a309beefe8793
+M
+src/extends1/ex/ShopMain.java,2/a/2a94b993841f692ddee099f864bbbdf3c1f3d007
+I
+src/extends1/ex/Book.java,4/4/443ea241da42091571af66903716661dcd47daaf
+I
+src/extends1/ex/Item.java,6/d/6d9ca1fb158fa838a72784a369336e48e9c1964e
+J
+src/extends1/ex/Album.java,2/0/20b6f11e41134803b451cf2cb6816907b96c076f
+J
+src/extends1/ex/Movie.java,a/0/a09bb81272a4a613463ed11fdafdfb2b679e95b0
