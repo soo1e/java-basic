@@ -478,3 +478,27 @@ J
 src/extends1/ex/Album.java,2/0/20b6f11e41134803b451cf2cb6816907b96c076f
 J
 src/extends1/ex/Movie.java,a/0/a09bb81272a4a613463ed11fdafdfb2b679e95b0
+J
+src/poly/basic/Parent.java,f/0/f0237c7fe8692b38ab70d84b531b04cc07a737b6
+I
+src/poly/basic/Child.java,5/9/59909eef868d6fc3994e7072a4c1ddfba20cf868
+L
+src/poly/basic/PolyMain.java,c/4/c42d009016cfbf175250c27355380df9b63a3087
+P
+ src/poly/basic/CastingMain1.java,6/5/65e522c7effcef617b6f2be9b19b400151573830
+P
+ src/poly/basic/CastingMain2.java,c/d/cd07fef4c9cc2fec0f0563d9c8e55888039737eb
+P
+ src/poly/basic/CastingMain3.java,5/1/5159c95d6a6ff4c08159c3e6c1283cfd983d3034
+P
+ src/poly/basic/CastingMain4.java,f/e/fe39f93de24b10995e77cae92fe75f24967580aa
+P
+ src/poly/basic/CastingMain5.java,5/4/541731cb6eec3d5af44b4895789a79f150222c67
+P
+ src/poly/basic/CastingMain6.java,2/1/2141eea6e4ac3b35b61b915f00a02e5d52e69ae8
+O
+src/poly/overriding/Parent.java,c/a/caeeaa76057516f80bfcc3dba5fc5b2f332c0d6e
+N
+src/poly/overriding/Child.java,9/3/938c89d925619a4b2f3bcff1956b9f6e0859cff0
+W
+'src/poly/overriding/OverridingMain.java,b/8/b8f0f1e4aba328034bdb994b0a51af89bd8d9c05
