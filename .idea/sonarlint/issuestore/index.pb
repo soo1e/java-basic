@@ -410,3 +410,61 @@ F
 src/final1/Member.java,4/8/4811295eb70bdf2b7ed287819d3d59068f331937
 J
 src/final1/MemberMain.java,6/7/67ab9fa49140ba6250b016f7fd5c3e3e09da8d36
+Q
+!src/extends1/ex1/ElectricCar.java,2/b/2b623826833cf0b42a7b0ffdd06c579d911ec82d
+L
+src/extends1/ex1/GasCar.java,f/2/f25436d98732dabe9f7d59b38354fcd0e8ae2c3d
+M
+src/extends1/ex1/CarMain.java,c/4/c4a6ac57a9320659131c75f27e8cad95c5840d31
+I
+src/extends1/ex2/Car.java,8/f/8fd742bf115abab61bf10bc0a99f98f176dbf054
+Q
+!src/extends1/ex2/ElectricCar.java,e/2/e27bd83f973a10224142402c8be72aa93f6eccba
+L
+src/extends1/ex2/GasCar.java,4/0/40a7c1d23a5a022242a6aab55a7fecded30e122d
+M
+src/extends1/ex2/CarMain.java,2/7/2754411b81118bc41b800dd60048df497bde4de4
+I
+src/extends1/ex3/Car.java,3/1/31daea2409ba75b58107938d67b49de5a435a652
+M
+src/extends1/ex3/CarMain.java,b/4/b44eac6743b6ddbf674f27b52ce29c5732691c12
+Q
+!src/extends1/ex3/HydrogenCar.java,c/d/cddd8cb7437757e223957dc6fdada503a6585710
+X
+(src/extends1/overriding/ElectricCar.java,a/c/acbf50cf81c323df054bc18312409888dc1d795c
+P
+ src/extends1/overriding/Car.java,2/1/214c5d94dd35c709c79a0ae238567262aad6598c
+T
+$src/extends1/overriding/CarMain.java,9/3/93ab2b8d903c6bd962e6474aeda2b87d05dd9d6e
+V
+&src/extends1/access/parent/Parent.java,c/b/cbeb0c5c00781cbdea0066d3ad58a6245d630b84
+U
+%src/extends1/access/parent/Child.java,3/e/3e07310f5de6448d761f72937896e3e8480204c3
+T
+$src/extends1/access/child/Child.java,4/d/4d235cb81e262c74076ad12b14267ea137f58e33
+Z
+*src/extends1/access/ExtendsAccessMain.java,4/5/45f7e6fd3f9bdd6c35387f5ec47c7d5be9aa2be5
+O
+src/extends1/super1/Parent.java,3/7/37916323672fbfa3b87dee82996fb4fe5ea06d62
+N
+src/extends1/super1/Child.java,9/7/976b0925d622c168e4606dfe09f57e08853c294f
+S
+#src/extends1/super1/Super1Main.java,8/5/857550a7f8694ff339d0893e8091a561b89d357f
+O
+src/extends1/super1/ClassA.java,a/b/ab834d949b0755e73434bf05adc85f9df4e53b89
+O
+src/extends1/super2/ClassA.java,3/a/3a82c887a7e914803d5f54f737f39393a4c47c48
+O
+src/extends1/super2/ClassB.java,5/f/5f6c4685bb95749e71df6ad93d97fa8be5f06448
+O
+src/extends1/super2/ClassC.java,0/3/038601cd369e52c10d8d52e6b5dba8ad30e719c3
+S
+#src/extends1/super2/Super2Main.java,c/8/c8c3dd56e547cd9ed61506b23ea04727e7d9130e
+X
+(src/extends1/overriding/HydrogenCar.java,9/f/9f28bbe57f652a32856cba237a90739b1179bd38
+S
+#src/extends1/overriding/GasCar.java,3/f/3fd9a2c9a6970cf90e5aebc44b326427e6e4f409
+L
+src/extends1/ex3/GasCar.java,7/0/70dd0a7057ad29c219e297682838e66a7f0cdfc1
+Q
+!src/extends1/ex3/ElectricCar.java,9/3/937a8725be15db1350d3b99a660a309beefe8793
