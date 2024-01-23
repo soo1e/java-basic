@@ -438,8 +438,6 @@ T
 $src/extends1/overriding/CarMain.java,9/3/93ab2b8d903c6bd962e6474aeda2b87d05dd9d6e
 V
 &src/extends1/access/parent/Parent.java,c/b/cbeb0c5c00781cbdea0066d3ad58a6245d630b84
-U
-%src/extends1/access/parent/Child.java,3/e/3e07310f5de6448d761f72937896e3e8480204c3
 T
 $src/extends1/access/child/Child.java,4/d/4d235cb81e262c74076ad12b14267ea137f58e33
 Z
@@ -450,8 +448,6 @@ N
 src/extends1/super1/Child.java,9/7/976b0925d622c168e4606dfe09f57e08853c294f
 S
 #src/extends1/super1/Super1Main.java,8/5/857550a7f8694ff339d0893e8091a561b89d357f
-O
-src/extends1/super1/ClassA.java,a/b/ab834d949b0755e73434bf05adc85f9df4e53b89
 O
 src/extends1/super2/ClassA.java,3/a/3a82c887a7e914803d5f54f737f39393a4c47c48
 O
@@ -502,3 +498,75 @@ N
 src/poly/overriding/Child.java,9/3/938c89d925619a4b2f3bcff1956b9f6e0859cff0
 W
 'src/poly/overriding/OverridingMain.java,b/8/b8f0f1e4aba328034bdb994b0a51af89bd8d9c05
+E
+src/poly/ex1/Dog.java,7/d/7d41114860c6b3c9317b67667d3784f7f01f8ccc
+E
+src/poly/ex1/Cat.java,a/4/a446dcb21b6372a9f02e2f093866b140da67192e
+E
+src/poly/ex1/Cow.java,3/0/307595c52e93ee09f69b8634dc1dbb90663f33bf
+Q
+!src/poly/ex1/AnimalSoundMain.java,3/4/343dc8b3918c49ec26c79c1cdc1c6eb66bf911a0
+H
+src/poly/ex2/Animal.java,3/b/3bd3d24aff70acc2f055e80530c95c97043f8df4
+E
+src/poly/ex2/Dog.java,f/3/f372bf45e28d8ea5f0d8346060555fd4ba02082a
+E
+src/poly/ex2/Cat.java,f/d/fd89c1aa27baf343698ece5a7699dc76036a60e1
+E
+src/poly/ex2/Cow.java,0/b/0b7b41f786d9960ed723641681d0343cbb414263
+Q
+!src/poly/ex2/AnimalPolyMain1.java,f/f/fffcb1f37acf5263d2dfdb79f8cf8fd3d287fd4b
+F
+src/poly/ex2/Duck.java,f/3/f3fd526095d83b5934cd9fc773ca9ef99c73e314
+Q
+!src/poly/ex2/AnimalPolyMain2.java,c/a/ca713422f4867633d6965ad3f6c0a4892abe1985
+P
+ src/poly/ex3/AbstractAnimal.java,b/d/bd11fb17fd9734415bcd801d8fb5c6c0c5481d1e
+E
+src/poly/ex3/Dog.java,b/8/b8ec052571136b67476516aa78fb401cd37148a3
+E
+src/poly/ex3/Cat.java,d/5/d56c69a919a0022bf101ea6e67420e6d8c563ee4
+E
+src/poly/ex3/Cow.java,7/a/7ad98126bee9d9f946c20add53ec8d3b6b1c59f9
+N
+src/poly/ex3/AbstractMain.java,3/d/3d4895ae19b5a572c6517de92fc540370ff226d6
+P
+ src/poly/ex4/AbstractAnimal.java,f/c/fc8cf7e5988b66c6d374d1ed044108a31903d5ae
+E
+src/poly/ex4/Dog.java,c/4/c4014de988468262b2752b3b4da1b42885d4ab9e
+E
+src/poly/ex4/Cow.java,2/7/27430fe24e62ee4b93272908afc1cca570dc2903
+E
+src/poly/ex4/Cat.java,4/7/47df4ac29d5221748ca6342ba3fbac612713c924
+N
+src/poly/ex4/AbstractMain.java,4/0/40e6b22f2e95e1f982d5556f870adba2c1a75b1a
+Q
+!src/poly/ex5/InterfaceAnimal.java,8/f/8f5491c25d4094a81a988e0b3574031eeb970eff
+E
+src/poly/ex5/Dog.java,a/8/a8abd0a378f1051acfacc38e9adcc69f32c8fcd6
+E
+src/poly/ex5/Cat.java,6/3/63782da253fa1c21e73583cb920002e34c3a3761
+E
+src/poly/ex5/Cow.java,d/6/d650190a207c04402b1c4d1fc51964dd4a2ee30d
+O
+src/poly/ex5/InterfaceMain.java,9/e/9e20a12928edface0ad0cedbf0789eaf72553f24
+P
+ src/poly/diamond/InterfaceA.java,b/6/b60ea01cd0bda983b9edcf5b15a8a0589a742cd1
+P
+ src/poly/diamond/InterfaceB.java,2/7/2792fa8175b19d674f12e27dbe5b7fa0a6adb751
+K
+src/poly/diamond/Child.java,4/3/4314f7c48ae259f4555b3110fc1f62f4372c401b
+Q
+!src/poly/diamond/DiamondMain.java,9/0/90f8e365b668395fb4449f2edb63e74963b8ede6
+P
+ src/poly/ex6/AbstractAnimal.java,f/9/f9f2d90131eced18a77895d7d28e5a85915c75ee
+E
+src/poly/ex6/Fly.java,a/8/a8c8eede5414871690e4c8952f9ef40389f5efca
+E
+src/poly/ex6/Dog.java,5/f/5fb05ba6278ec62e80752484317bc695e3f2c00f
+F
+src/poly/ex6/Bird.java,4/5/45873213fe90dda3cb243c9e97119c0f093d7414
+I
+src/poly/ex6/Chicken.java,2/b/2b756102d4d74a1c3b657e270dbe05821d470903
+N
+src/poly/ex6/SoundFlyMain.java,f/b/fb9aa90fb577152044b49c73ae0f795b66bc925c
