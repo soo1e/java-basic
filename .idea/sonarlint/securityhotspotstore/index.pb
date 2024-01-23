@@ -594,3 +594,29 @@ K
 src/poly/car1/CarMain1.java,3/d/3d33353fd14e3c8bd615b1b990d9ef99481fc4cb
 I
 src/poly/car1/NewCar.java,7/0/70b8edc99c79ece025c3eac9c1ba206438029604
+P
+ src/poly/ex/sender/SendMain.java,1/2/1222017837e0f7c92e053fa40ecb9b23ef523772
+N
+src/poly/ex/sender/Sender.java,7/e/7ee289488bf8549d3e77879ae51a11e2c61a7369
+S
+#src/poly/ex/sender/EmailSender.java,6/5/6516abcc821dc50816245aa709d81efb2d0aa89c
+Q
+!src/poly/ex/sender/SmsSender.java,5/1/512e82e407f5f0e851763b24a4ce167fcc9837be
+V
+&src/poly/ex/sender/FaceBookSender.java,2/5/2585eed13df14882d863443ede1d1e0dad3ce2b8
+N
+src/poly/ex/pay0/KakaoPay.java,b/f/bfebbcdf97382b66a43aa605245f10b56d742769
+N
+src/poly/ex/pay0/NaverPay.java,2/f/2f8e541172da78ed57abac23855ea5f462074bbb
+P
+ src/poly/ex/pay0/PayService.java,8/4/84c0567823d651cadc3473ed173858f916ab9c75
+N
+src/poly/ex/pay0/PayMain0.java,d/0/d0bec985c249fae6b1bc538a256797cb74173c02
+I
+src/poly/ex/pay0/Pay.java,2/7/27d964bfd541ad1e07b9ccd97ad72ba39b1e4885
+N
+src/poly/ex/pay0/PayStore.java,b/b/bbf20f42b0d22d766c0c712ddb73933addc03313
+P
+ src/poly/ex/pay0/DefaultPay.java,3/e/3eeba16ec8861474ae9417eb468851dd6ac77fca
+N
+src/poly/ex/pay0/PayMain1.java,5/1/51fb7d3c0bb9495bac8abb50156ad0a8c963c26c
